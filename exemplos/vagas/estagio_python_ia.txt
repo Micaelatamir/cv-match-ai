@@ -1,0 +1,4 @@
+Estágio em Desenvolvimento Python com Inteligência Artificial
+Cursando Engenharia de Software, Ciência da Computação ou áreas afins.
+Requisitos: Python, FastAPI, SQL, Git. Interesse em LLMs, Machine Learning e automação.
+Diferencial: inglês intermediário, Pandas e LangChain.

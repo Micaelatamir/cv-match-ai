@@ -1,0 +1,3 @@
+Desenvolvedor(a) Full Stack Pleno
+Requisitos: Node.js, TypeScript, React, MongoDB, Redis, CI/CD com GitHub Actions, Azure.
+Experiência com microsserviços e metodologias ágeis (Scrum).
